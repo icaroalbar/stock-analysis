@@ -1,5 +1,5 @@
 symbols = [
     'MSFT',
-    # 'AAPL',
-    # 'GOOGL',
+    'AAPL',
+    'GOOGL',
 ]
